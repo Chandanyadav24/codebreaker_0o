@@ -1,0 +1,17 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+button{
+   background-color:yellow;
+   height: 35px;
+   width: 88px;
+}
